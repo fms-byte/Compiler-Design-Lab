@@ -4,7 +4,7 @@
 
 Run the following Commands in Projects Terminal:
 ```
-1. flex filename
+1. flex filename.l
 2. gcc lex.yy.c
 3. a.exe
 ```
